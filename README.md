@@ -44,7 +44,7 @@
 
 ### 참조
 
-[[발표PPT](https://docs.google.com/presentation/d/e/2PACX-1vRt1IH_ObchimtJcwiYCZN3KiTdET9hcN6tVSs-pJ2udPDf5QCIGFyzdyNdFF1fDM6SZZd0d_KRtmIH/pub?start=false&loop=false&delayms=3000)]
+![발표PPT][[링크](https://docs.google.com/presentation/d/e/2PACX-1vRt1IH_ObchimtJcwiYCZN3KiTdET9hcN6tVSs-pJ2udPDf5QCIGFyzdyNdFF1fDM6SZZd0d_KRtmIH/pub?start=false&loop=false&delayms=3000)]
 PPT같은 경우 파워포인트에서 구글문서로 옮기는 과정에서 깨짐이 있을 수 있습니다.
 
 
