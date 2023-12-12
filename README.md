@@ -25,7 +25,6 @@
 이용후기 작성, 조회, 수정, 삭제 기능  <br />
 
 ### 메인 화면
-![image](https://github.com/youngminkk/Movingprj/assets/146568255/8588c96b-1e9d-4e09-a341-24a269c18ee3)
 
 
 - **세부 메뉴 화면의 상세기능은 구글 문서 PPT에서 볼 수 있습니다.**
@@ -45,7 +44,7 @@
 
 ### 참조
 
-[[링크](https://docs.google.com/presentation/d/e/2PACX-1vRt1IH_ObchimtJcwiYCZN3KiTdET9hcN6tVSs-pJ2udPDf5QCIGFyzdyNdFF1fDM6SZZd0d_KRtmIH/pub?start=false&loop=false&delayms=3000)]
+[[발표PPT](https://docs.google.com/presentation/d/e/2PACX-1vRt1IH_ObchimtJcwiYCZN3KiTdET9hcN6tVSs-pJ2udPDf5QCIGFyzdyNdFF1fDM6SZZd0d_KRtmIH/pub?start=false&loop=false&delayms=3000)]
 PPT같은 경우 파워포인트에서 구글문서로 옮기는 과정에서 깨짐이 있을 수 있습니다.
 
 
